@@ -1,6 +1,6 @@
     cd ~/
 
-    git clone https://github.com/tianyoujian/MZDPI.git
+    git clone https://github.com/themillerdave/MZDPI.git
 
     cd MZDPI/vga
 
